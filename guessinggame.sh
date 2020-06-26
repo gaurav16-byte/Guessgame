@@ -18,7 +18,6 @@ do
 		gues
 	else
 		echo "Congratulations.."
-
 fi
 done
 echo "Congratulations.. You have guessed the number"
